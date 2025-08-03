@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package auth;
 
-option go_package = "C:/Users/Professional/GolandProjects/protos";
+option go_package = "github.com/Barbul-20/contract/protos/contract/v1;contractv1";
 
 service Auth{
     rpc Register (RegisterRequest) returns (RegisterResponse);
