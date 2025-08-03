@@ -1,4 +1,4 @@
-module protos
+module github.com/Barbul-20/contract
 
 go 1.24.4
 
